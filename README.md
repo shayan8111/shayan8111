@@ -15,6 +15,3 @@ Tools & Languages I Use
 | Operating Systems	| Windows, Linux/Unix |
 | Other Tools and Platforms	| Git, Visual Studio, Visual Studio Code, MS Office, Heroku, Microsoft Azure, Microsoft Project |
 
-Reach Out to Me
-
-https://www.linkedin.com/in/shayan-chabook-369707221
