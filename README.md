@@ -9,7 +9,7 @@
 💻 Tools & Languages I Use 
 | Skills | Languages/Tools |
 | --- | --- | 
-| Database Management	 | OracleSQL, MySql, MongoDB |
+| Database Management	 | OracleSQL, MongoDB |
 | Programming Languages	| C++, C, Python, Java |
 | Web Development	 | HTML5, CSS, JavaScript, Node.js, Express.js, Django, xml |
 | Operating Systems	| Windows, Linux/Unix |
